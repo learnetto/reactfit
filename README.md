@@ -10,7 +10,9 @@ Sign up and then go to the [Fitbit Developers website](https://dev.fitbit.com) a
 
 Get the Client ID from your app settings and set it in `Dashboard.jsx`:
 
-``` const CLIENT_ID = 'YOUR_CLIENT_ID'
+```
+const CLIENT_ID = 'YOUR_CLIENT_ID'
+```
 
 Run the app by starting the Rails server and Webpack dev server
 
